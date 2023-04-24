@@ -1,4 +1,4 @@
-##TP Nro. 0 "Hello, world"
+## TP Nro. 0 "Hello, world"
 
 **Apellido:** Canaza Mamani
 
@@ -8,9 +8,9 @@
 
 **Legajo:** 2098260
 
-####Transcripcion del enunciado:
+### Transcripcion del enunciado:
 
-** "Hello, World!” en C **
+**"Hello, World!” en C**
 
 **Objetivos**
 * Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
@@ -28,7 +28,7 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
 **Restricciones** 
 Ninguna.
 
-####Informacion del compilador 
+#### Informacion del compilador 
 gcc (GCC) 12.2.1 20221121 (Red Hat 12.2.1-4)
 
 _STDC_VERSION__ --> 202000L (c2x)
